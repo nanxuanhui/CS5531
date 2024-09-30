@@ -1,0 +1,12 @@
+Scheduling algorithm performance summary:
+
+FCFS average waiting time: 60.16
+FCFS average turnaround time: 64.77
+LJF average waiting time: 71.10
+LJF average turnaround time: 75.71
+RR average waiting time: 141.26
+RR average turnaround time: 74.77
+HRRN average waiting time: 41.65
+HRRN average turnaround time: 46.26
+LRTF average waiting time: 71.10
+LRTF average turnaround time: 75.71
